@@ -98,7 +98,7 @@ EDITOR=nano; export EDITOR
 #   ------------------------------------------------------------
 #   Change the Prompt Here
 
-PROMPT_START="\n${BCYN}\u@\H${RST} ${WHT}\w${RST}"
+PROMPT_START="\n${BVIO}\u@\H${RST} ${WHT}\w${RST}"
 PROMPT_END=" \$ "
 
 #   Source Git Prompt
